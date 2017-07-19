@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Gonzales weds York",
+    "author": "Hayes Carney",
+    "genre": "romedy",
+    "read": true
+  },
+  {
+    "title": "Cline loves Farrell",
+    "author": "Blake Randolph",
+    "genre": "drama",
+    "read": true
+  },
+  {
+    "title": "Good loves Richmond",
+    "author": "Griffin Wells",
+    "genre": "romedy",
+    "read": false
+  },
+  {
+    "title": "Carmela loves Tillman",
+    "author": "Janette Head",
+    "genre": "comedy",
+    "read": false
+  },
+  {
+    "title": "Christensen meets Wilcox",
+    "author": "Spence Patrick",
+    "genre": "romedy",
+    "read": true
+  },
+  {
+    "title": "Esther loves Sharpe",
+    "author": "Hendricks Burgess",
+    "genre": "drama",
+    "read": false
+  },
+  {
+    "title": "Cathleen loves Fitzgerald",
+    "author": "Christi Hardin",
+    "genre": "romedy",
+    "read": true
+  }
+]

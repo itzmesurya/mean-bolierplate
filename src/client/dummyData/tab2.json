@@ -1,0 +1,16 @@
+{
+    "fields": [
+        {
+            "key": "age",
+            "type": "md-input",
+            "templateOptions": {
+                "label": "Age",
+                "req": true,
+                "maxlength": 3
+            }
+        }
+    ],
+    "model": {
+        "age": 55
+    }
+}

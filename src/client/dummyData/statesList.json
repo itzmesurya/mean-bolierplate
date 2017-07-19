@@ -1,0 +1,650 @@
+[{
+        "country-code": "101",
+        "country": "India",
+        "key": "AN",
+        "name": "Andaman and Nicobar Islands"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "AP",
+        "name": "Andhra Pradesh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "AR",
+        "name": "Arunachal Pradesh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "AS",
+        "name": "Assam"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "BR",
+        "name": "Bihar"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "CG",
+        "name": "Chandigarh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "CH",
+        "name": "Chhattisgarh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "DH",
+        "name": "Dadra and Nagar Haveli"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "DD",
+        "name": "Daman and Diu"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "DL",
+        "name": "Delhi"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "GA",
+        "name": "Goa"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "GJ",
+        "name": "Gujarat"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "HR",
+        "name": "Haryana"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "HP",
+        "name": "Himachal Pradesh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "JK",
+        "name": "Jammu and Kashmir"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "JH",
+        "name": "Jharkhand"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "KA",
+        "name": "Karnataka"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "KL",
+        "name": "Kerala"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "LD",
+        "name": "Lakshadweep"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "MP",
+        "name": "Madhya Pradesh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "MH",
+        "name": "Maharashtra"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "MN",
+        "name": "Manipur"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "ML",
+        "name": "Meghalaya"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "MZ",
+        "name": "Mizoram"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "NL",
+        "name": "Nagaland"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "OR",
+        "name": "Odisha"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "PY",
+        "name": "Puducherry"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "PB",
+        "name": "Punjab"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "RJ",
+        "name": "Rajasthan"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "SK",
+        "name": "Sikkim"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "TN",
+        "name": "Tamil Nadu"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "TS",
+        "name": "Telangana"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "TR",
+        "name": "Tripura"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "UP",
+        "name": "Uttar Pradesh"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "UK",
+        "name": "Uttarakhand"
+    },
+    {
+        "country-code": "101",
+        "country": "India",
+        "key": "WB",
+        "name": "West Bengal"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Alabama",
+        "key": "AL"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Alaska",
+        "key": "AK"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "American Samoa",
+        "key": "AS"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Arizona",
+        "key": "AZ"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Arkansas",
+        "key": "AR"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "California",
+        "key": "CA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Colorado",
+        "key": "CO"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Connecticut",
+        "key": "CT"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Delaware",
+        "key": "DE"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "District Of Columbia",
+        "key": "DC"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Federated States Of Micronesia",
+        "key": "FM"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Florida",
+        "key": "FL"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Georgia",
+        "key": "GA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Guam",
+        "key": "GU"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Hawaii",
+        "key": "HI"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Idaho",
+        "key": "ID"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Illinois",
+        "key": "IL"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Indiana",
+        "key": "IN"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Iowa",
+        "key": "IA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Kansas",
+        "key": "KS"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Kentucky",
+        "key": "KY"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Louisiana",
+        "key": "LA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Maine",
+        "key": "ME"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Marshall Islands",
+        "key": "MH"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Maryland",
+        "key": "MD"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Massachusetts",
+        "key": "MA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Michigan",
+        "key": "MI"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Minnesota",
+        "key": "MN"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Mississippi",
+        "key": "MS"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Missouri",
+        "key": "MO"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Montana",
+        "key": "MT"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Nebraska",
+        "key": "NE"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Nevada",
+        "key": "NV"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "New Hampshire",
+        "key": "NH"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "New Jersey",
+        "key": "NJ"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "New Mexico",
+        "key": "NM"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "New York",
+        "key": "NY"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "North Carolina",
+        "key": "NC"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "North Dakota",
+        "key": "ND"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Northern Mariana Islands",
+        "key": "MP"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Ohio",
+        "key": "OH"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Oklahoma",
+        "key": "OK"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Oregon",
+        "key": "OR"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Palau",
+        "key": "PW"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Pennsylvania",
+        "key": "PA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Puerto Rico",
+        "key": "PR"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Rhode Island",
+        "key": "RI"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "South Carolina",
+        "key": "SC"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "South Dakota",
+        "key": "SD"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Tennessee",
+        "key": "TN"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Texas",
+        "key": "TX"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Utah",
+        "key": "UT"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Vermont",
+        "key": "VT"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Virgin Islands",
+        "key": "VI"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Virginia",
+        "key": "VA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Washington",
+        "key": "WA"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "West Virginia",
+        "key": "WV"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Wisconsin",
+        "key": "WI"
+    },
+    {
+        "country-code": "231",
+        "country": "United States",
+        "name": "Wyoming",
+        "key": "WY"
+    },
+    {
+        "key": "AB",
+        "name": "Alberta",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "BC",
+        "name": "British Columbia",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "MB",
+        "name": "Manitoba",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "NB",
+        "name": "New Brunswick",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "NL",
+        "name": "Newfoundland and Labrador",
+        "country-code": "38",
+        "country": "Canada",
+        "alt": ["Newfoundland", "Labrador"]
+    },
+    {
+        "key": "NS",
+        "name": "Nova Scotia",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "NU",
+        "name": "Nunavut",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "NT",
+        "name": "Northwest Territories",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "ON",
+        "name": "Ontario",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "PE",
+        "name": "Prince Edward Island",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "QC",
+        "name": "Quebec",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "SK",
+        "name": "Saskatchewan",
+        "country-code": "38",
+        "country": "Canada"
+    },
+    {
+        "key": "YT",
+        "name": "Yukon",
+        "country-code": "38",
+        "country": "Canada"
+    }
+]

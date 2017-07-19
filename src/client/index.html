@@ -1,0 +1,77 @@
+<!doctype html>
+<html ng-app="ep.formly">
+
+<head>
+    <meta charset="utf-8">    
+    <base href="/">
+    <title>Honda</title>
+     <!-- build:css styles/lib.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="/bower_components/toastr/toastr.css" />
+    <!-- endbower -->
+    <!-- endbuild -->
+    
+    <!-- build:css styles/prism.min.css-->
+     <!-- mimic:css -->
+    <!-- endmimic --> 
+    <!-- inject:css:theme -->
+     <!-- endinject -->
+    <!-- endbuild -->
+    <!-- build:css styles/app.css-->
+    <!-- inject:css -->
+     <link rel="stylesheet" href="/src/client/app/assets/css/app.css">
+     <!-- endinject -->
+    <!-- endbuild -->
+</head>
+
+<body ng-controller="mainController as mc"  >
+    <!-- /section:basics/navbar.layout -->
+    <div ng-include="'app/layout/shell.html'"></div>
+    <!-- /.main-content -->
+    
+     <!-- /Epsilon.Axis ===-->
+    <!-- build:js js/lib.js -->
+    <!-- bower:js -->
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/toastr/toastr.js"></script>
+    <script src="/bower_components/moment/moment.js"></script>
+    <script src="/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="/bower_components/underscore/underscore.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+     <!-- build:js js/prism.min.js-->
+     <!-- mimic:js -->
+    <!-- endmimic -->
+    <!-- inject:js:custom -->
+     <!-- endinject -->
+    <!-- inject:js:theme -->
+     <!-- endinject -->
+    <!-- inject:js:themeApp -->
+    <!-- endinject -->
+     <!-- inject:templates:js -->
+    <!-- endinject -->
+    <!-- endbuild -->
+     <!-- build:js js/app.js-->
+    <!-- inject:js -->
+     <script src="/src/client/app/app.module.js"></script>
+     <script src="/src/client/app/directives/directives.module.js"></script>
+     <script src="/src/client/app/core/core.module.js"></script>
+     <script src="/src/client/app/honda/honda.module.js"></script>
+     <script src="/src/client/app/layout/layout.module.js"></script>
+     <script src="/src/client/app/app.config.js"></script>
+     <script src="/src/client/app/app.controller.js"></script>
+     <script src="/src/client/app/core/config.js"></script>
+     <script src="/src/client/app/core/constants.js"></script>
+     <script src="/src/client/app/core/core.route.js"></script>
+     <script src="/src/client/app/honda/honda.controller.js"></script>
+     <script src="/src/client/app/honda/honda.route.js"></script>
+     <script src="/src/client/app/layout/shell.controller.js"></script>
+     <script src="/src/client/app/directives/jsonInputRepeater/jsonInputRepeater.directive.js"></script>
+     <script src="/src/client/app/directives/demoPanel/demoPanel.directive.js"></script>
+     <!-- endinject -->
+    <!-- inject:templatesclient:js -->
+    <!-- endinject -->
+    <!-- endbuild -->
+</body>
+</html>

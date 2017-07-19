@@ -1,0 +1,26 @@
+{
+    "fields": [
+        {
+            "key": "name",
+            "type": "md-input",
+            "templateOptions": {
+                "label": "Name",
+                "req": true,
+                "maxlength": 150
+            }
+        },
+        {
+            "key": "balance",
+            "type": "md-input",
+            "templateOptions": {
+                "label": "Balance",
+                "req": true,
+                "maxlength": 15
+            }
+        }
+    ],
+    "model": {
+        "name": "George Clooney",
+        "balance": "1589554532"
+    }
+}

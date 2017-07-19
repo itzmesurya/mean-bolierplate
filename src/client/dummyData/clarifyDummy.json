@@ -1,0 +1,140 @@
+{
+    "dataObj": {
+        "RowSet": {
+            "Status": "0",
+            "CustomerName": "ROGER A DANIELS",
+            "DealerName": "ANTHONY CHEVROLET CADILLAC",
+            "Email_Preferences": {
+                "Row": {
+                    "REFERENCECODE": "395777906",
+                    "EMAILTYPE": "General",
+                    "EMAILID": "TEST@EPSILON.COM",
+                    "COMMTYPE": "ALL",
+                    "ALLOWED": "TRUE"
+                }
+            },
+            "Phone_Preferences": {
+                "Row": [
+                    {
+                        "REFERENCECODE": "445396073", 
+                        "PHONETYPE": "HOME",
+                        "PHONENUMBER": "6302507180",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "LIVE AGENT CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396073",
+                        "PHONETYPE": "HOME",
+                        "PHONENUMBER": "6302507180",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "PRE-RECORDED CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396073",
+                        "PHONETYPE": "HOME",
+                        "PHONENUMBER": "6302507180",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "SMS",
+                        "ALLOWED": "FALSE"
+                    },
+                    {
+                        "REFERENCECODE": "445396075",
+                        "PHONETYPE": "BUSINESS",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "LIVE AGENT CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396075",
+                        "PHONETYPE": "BUSINESS",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "PRE-RECORDED CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396075",
+                        "PHONETYPE": "BUSINESS",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "FALSE",
+                        "COMMTYPE": "SMS",
+                        "ALLOWED": "FALSE"
+                    },
+                    {
+                        "REFERENCECODE": "445396074",
+                        "PHONETYPE": "CELL",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "TRUE",
+                        "COMMTYPE": "LIVE AGENT CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396074",
+                        "PHONETYPE": "CELL",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "TRUE",
+                        "COMMTYPE": "PRE-RECORDED CALL",
+                        "ALLOWED": "TRUE"
+                    },
+                    {
+                        "REFERENCECODE": "445396074",
+                        "PHONETYPE": "CELL",
+                        "PHONENUMBER": "2016472947",
+                        "ISTEXTABLE": "TRUE",
+                        "COMMTYPE": "SMS",
+                        "ALLOWED": "FALSE"
+                    }
+                ]
+            },
+            "Mail_Preferences": {
+                "Row": {
+                    "REFERENCECODE": "395836996",
+                    "MAILADDRESSTYPE": "General",
+                    "STREETADDRESS": "992 W Pike St",
+                    "CITY": "Clarksburg",
+                    "POSTALCODE": "26301-2554",
+                    "STATE": "WV",
+                    "COUNTRY": "USA",
+                    "COMMTYPE": "ALL",
+                    "ALLOWED": "FALSE"
+                }
+            },
+            "Dealer_Additional_Info": {
+                "Row": {
+                    "DEALERADDRESS": "1229 Country Club Rd.",
+                    "DEALERCITY": "Fairmont",
+                    "DEALERSTATE": "WV",
+                    "DEALERBILLINGZIPCODE": "26554-2318",
+                    "DEALERHOMEURL": "http://www.anthonychevrolet.com/en_US/HomePage",
+                    "DEALERPRIVACYPOLICYLINK": "http://www.anthonychevrolet.com/en_US/HomePage/PrivacyPolicy"
+                }
+            },
+            "Vehicle_Attrib": {
+                "Row": {
+                    "CUSTOMERVIN": "1GNDV23L75D239542",
+                    "CUSTOMERVEHICLEMAKE": "CHEV",
+                    "CUSTOMERVEHICLEMODEL": "UPLANDER",
+                    "CUSTOMERVEHICLEYEAR": "2005"
+                }
+            },
+            "Customer_Additional_Info": {
+                "Row": {
+                    "FIRSTNAME": "Roger A",
+                    "LASTNAME": "Daniels",
+                    "COL3": "E",
+                    "COL4": "395777906"
+                }
+            },
+            "Sale_Service_Comm_Pref": {
+                "Row": {
+                    "Allowed": "TRUE",
+                    "SalesPromotions": "TRUE",
+                    "ReferenceCode": "395777906"
+                }
+            }
+        }
+    }
+}

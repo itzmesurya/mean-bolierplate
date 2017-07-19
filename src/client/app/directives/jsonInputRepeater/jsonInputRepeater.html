@@ -1,0 +1,14 @@
+<div class="repeaterClass">
+    <ul style="list-style: none;">
+        <li ng-repeat="(key,val) in data">
+            <div layout="row" layout-align="center center">
+                <div flex>{{key}}</div>
+                <div ng-if="data[key].constructor !== {}.constructor && data[key].constructor !== [].constructor" flex> :
+                    <md-input-container>
+                        <input type="text" ng-model="data[key]"></div>
+                </md-input-container>
+            </div>
+            <json-input-repeater data="data[key]" ng-if="data[key].constructor === {}.constructor"></json-input-repeater>
+        </li>
+    </ul>
+</div>

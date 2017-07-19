@@ -1,0 +1,27 @@
+{
+  "name": "ngmaterialformly",
+  "description": "POC with Angular + Material + Formly",
+  "main": "src/server/app.js",
+  "authors": [
+    "Surya"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "material",
+    "formly"
+  ],
+  "homepage": "https://github.com/itzmesurya/ngmaterialformly",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "toastr": "~2.1.2",
+    "moment": "^2.18.1",
+    "angular-ui-router": "^1.0.3",
+    "underscore": "^1.8.3"
+  }
+}

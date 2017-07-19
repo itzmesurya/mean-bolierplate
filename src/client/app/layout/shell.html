@@ -1,0 +1,18 @@
+<div ng-controller="Shell as vm">
+    <!--=== Header ===-->
+    <!--=== End Header ===-->
+    <nav-bar menu-items="vm.menuItems"></nav-bar>
+    <!-- /section:basics/navbar.layout -->
+    <div ui-view class="container"></div>
+    <!-- /.main-content -->
+
+    <!--=== Footer ===-->
+    <footer id="footer_wrapper" layout="row">
+        <div flex="15"></div>
+        <div class="footer-content" flex="70">
+            <!-- <p class="md-body-1">&copy; Copyright <time class="year">2017</time> Epsilon - All Rights Reserved</p> -->
+        </div>
+        <div flex="15"></div>
+    </footer>
+    <!--===/Footer===-->
+</div>
