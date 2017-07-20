@@ -99,7 +99,7 @@ gulp.task('templatecache', ['clean-code', 'inject'], function () {
     log('Creating AngularJS $templateCache');
 
     return gulp
-        .src(config.htmltemplates)
+        .src(config.html)
         .pipe($.htmlmin({
             empty: true
         }))
@@ -219,7 +219,6 @@ gulp.task('optimize', ['templatecache'], function () {
         searchPath: './'
     });
     var templateCache = config.temp + config.templateCache.file;
-    var templateClientCache = config.temp + config.templateClientCache.file;
     var cssFilter = $.filter('**/*.css');
     var jsLibFilter = $.filter('**/' + config.optimized.lib);
     var jsAppFilter = $.filter('**/' + config.optimized.app);
@@ -231,12 +230,6 @@ gulp.task('optimize', ['templatecache'], function () {
                 read: false
             }), {
                 starttag: '<!-- inject:templates:js -->'
-            }))
-        .pipe($.inject(
-            gulp.src(templateClientCache, {
-                read: false
-            }), {
-                starttag: '<!-- inject:templatesclient:js -->'
             }))
         .pipe(assets)
         .pipe(cssFilter)

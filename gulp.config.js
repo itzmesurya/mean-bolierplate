@@ -103,14 +103,6 @@ module.exports = function () {
         templateCache: {
             file: 'templates.js',
             options: {
-                module: 'ep.formly.theme.core',
-                standAlone: false,
-                root: 'theme/'
-            }
-        },
-        templateClientCache: {
-            file: 'templatesclient.js',
-            options: {
                 module: 'ep.formly.core',
                 standAlone: false,
                 root: 'app/'
